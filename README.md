@@ -1,1 +1,1 @@
-Exercicio solicitado na segunda aula de front end estatito do curso da Ada # Adafrontend_ex01
+Exercicio solicitado na segunda aula de front end estatitco do curso da Ada # Adafrontend_ex01
